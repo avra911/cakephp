@@ -2,6 +2,8 @@
 #################################################
 /app/Config/database.php
 /app/
+# used in croogo complete app
+/app/*
 /app/tmp
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
